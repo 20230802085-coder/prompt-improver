@@ -1,0 +1,8 @@
+User Prompt:
+what is nlp
+
+Improved Prompt:
+Generate a clear, detailed and well-structured response for: what is nlp. 
+
+Final Output:
+Generate a clear, detailed and well-structured response for: what is nlp. 
